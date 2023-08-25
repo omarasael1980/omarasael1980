@@ -37,12 +37,12 @@
 ### My Projects 🛠️
   <div>
     <main>
-       <a href="https://github.com/omarasael1980/quioscoCafeteria" target="_blank"> <img alt="sheetsdatabase" src="./projects/React_Coffe_Quioco_Cliente.gif"  height="300" align="left"> </a>
-      <a href="https://github.com/omarasael1980/quioscoCafeteria" target="_blank"> <img alt="sheetsdatabase" src="./projects/React_coffee_app_2.gif"  height="300" align="left"> </a>
+       <a href="https://github.com/omarasael1980/quioscoCafeteria" target="_blank"> <img alt="sheetsdatabase" src="./projects/React_Coffe_Quioco_Cliente.gif"  width= "300" height="180" align="left"> </a>
+      <a href="https://github.com/omarasael1980/quioscoCafeteria" target="_blank"> <img alt="sheetsdatabase" src="./projects/React_coffee_app_2.gif"  width= "300" height="180" align="left"> </a>
     </main>
     <aside>
       <h2  align="center">Quiosco Coffee App</h2>
-      <p align="center"> This REACT app allows the customer to choose the food they want to buy, when sending their order, those in charge of preparing the food and delivering it can manage the orders., the   first image is the           customer's view and the second belongs to the service and order delivery view.</p>
+      <p align="center" > This REACT app allows the customer to choose the food they want to buy, when sending their order, those in charge of preparing the food and delivering it can manage the orders., the   first image is the customer's view and the second belongs to the service and order delivery view.</p>
     </aside>
    
  </div>
