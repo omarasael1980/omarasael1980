@@ -33,3 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarasael1980&show_icons=true&locale=en" alt="omarasael1980" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarasael1980&" alt="omarasael1980" /></p>
+### 🛠️ My Projects
+  
+<a href="https://github.com/omarasael1980/quioscoCafeteria" target="_blank"> <img alt="sheetsdatabase" src="./projects/React_Coffe_Quioco_Cliente.gif"  height="300" align="left"> </a>
+ 
+
