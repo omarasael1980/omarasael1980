@@ -78,6 +78,11 @@
   <p align="center">&nbsp;<img  width= "300"    src="https://github-readme-streak-stats.herokuapp.com/?user=omarasael1980&" alt="omarasael1980" /></p>
 </div>
 <hr>
+<h3>Other projects</h3> 
+<a href="https://github.com/omarasael1980/buscadorClima" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omarasael1980&repo=buscadorClima&theme=gruvbox""></a>
+ <a href="https://github.com/omarasael1980/controlGastos" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omarasael1980&repo=controlGastos&theme=gruvbox""></a>
+ <a href="https://github.com/omarasael1980/cotizadorCriptomonedas" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omarasael1980&repo=cotizadorCriptomonedas&theme=gruvbox""></a>
+ <a href="https://github.com/omarasael1980/perro_amarillo" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omarasael1980&repo=perro_amarillo&theme=gruvbox""></a>
 
 <h3 align="center">Building Bridges Between Concepts and Code.</h3>
 
