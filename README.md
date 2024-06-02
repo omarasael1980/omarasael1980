@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omar Hernandez</h1>
 
 
-- 🔭 I’m currently working on [a React app for bus travel reservations](https://github.com/omarasael1980/busDolphins.git)
+- 🔭 I’m currently working on [CESISPE]([https://github.com/omarasael1980/busDolphins.git](http://cesispe.gob.mx/))
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently working with **MERN**
 
-- 👯 I'm currently practicing [MERN stack development on a project for project management.](https://github.com/omarasael1980/uptask-mern)
+- 👯 I'm currently practicing [MERN stack development and learning Django RestFramework] 
 
 - 👨‍💻 All of my projects are available at [https://github.com/omarasael1980](https://github.com/omarasael1980)
 
