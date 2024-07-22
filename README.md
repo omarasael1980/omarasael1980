@@ -11,17 +11,36 @@
 
 - 📫 How to reach me **omarasael80@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1H6ZVA_oMTj_XzQigW3CnorrRK97oyUTF?usp=sharing](https://drive.google.com/drive/folders/1H6ZVA_oMTj_XzQigW3CnorrRK97oyUTF?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1H6ZVA_oMTj_XzQigW3CnorrRK97oyUTF?usp=sharing]((https://drive.google.com/file/d/1ptCcdWabPEFYAMI7JBh16MD6EiLtC1EY/view?usp=sharing))
 
 - ⚡ Previous Background **Chemical Engineer**
 
 ### My Projects 🛠️
-
    <div>
    <main align="left">
      <a href="https://github.com/omarasael1980/sic2" target="_blank"> <img alt="sheetsdatabase" src="./projects/sic.png"  width= "300"           height="180" align="left"> </a>
     
   </main>
+  
+  <aside>
+    <h2  align="center">Sistema de Notificaciones</h2>
+    <p align="center" > Sistema para dar de alta casos jurídicos y notificar de la alta a diferentes dependencias de seguridad pública del Estado de Baja California. </p>
+        <p align="center" > El sistema esta realizado con Node, Express, Oracle, Sequelize, React, Tailwind  y se conecta a API's de diferentes dependencias de seguridad pública.  </p>
+          <p align="center" > Para el despliegue en un servidor virtual se utilizó PM2 y NginX  </p>
+     
+  </aside>
+  </div>
+  <hr>
+   <div> 
+   <main align="left"> 
+     <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/loginSicuap.png"  width= "300"           height="180" align="left"> </a>
+      <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/ALTA%20CASO.jpg"  width= "300"           height="180" align="left"> </a>
+        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/DASHBOARD%20VOLDEMORT.jpg"  width= "300"           height="180" align="left"> </a>
+          <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/MANTENIMIENTO%20DE%20CATALOGOS%20DE%20USUARIOS%20Y%20DELITOS.jpg"  width= "300"           height="180" align="left"> </a>
+            <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/SEGUIMIENTO_CASO.jpg"  width= "300"           height="180" align="left"> </a>
+    
+  </main>
+  
   <aside>
     <h2  align="center">Sistema Integral Colegio Santee</h2>
     <p align="center" > TThe developed system, utilizing PHP, MySQL, JavaScript, HTML, Bootstrap, CSS, and ChartJS, optimizes the control and management of services in the nursing and educational psychology departments. It generates printable reports, tracks school insurance expenses, and has significantly improved customer service, automating key processes and reducing response times since its implementation a few months ago.</p>
