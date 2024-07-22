@@ -23,6 +23,8 @@
           <p align="center" > El sistema esta realizado con Node, Express, Oracle, Sequelize, React, Tailwind  y se conecta a API's de diferentes dependencias de seguridad pública.  </p>
           <p align="center" > Para el despliegue en un servidor virtual se utilizó PM2 y NginX  </p>
        </aside>
+       </div>
+       <div>
       <main  >
         <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/loginSicuap.png"  width= "300"           height="180" align="left"> </a>
         <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/ALTA%20CASO.jpg"  width= "300"           height="180" align="left"> </a>
