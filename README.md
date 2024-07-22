@@ -17,19 +17,19 @@
 
 ### My Projects 🛠️
    <div>
-      <main align="left">
-        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/loginSicuap.png"  width= "300"           height="180" align="left"> </a>
-        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/ALTA%20CASO.jpg"  width= "300"           height="180" align="left"> </a>
-        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/DASHBOARD%20VOLDEMORT.jpg"  width= "300"           height="180" align="left"> </a>
-        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/MANTENIMIENTO%20DE%20CATALOGOS%20DE%20USUARIOS%20Y%20DELITOS.jpg"  width= "300"           height="180" align="left"> </a>
-        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/SEGUIMIENTO_CASO.jpg"  width= "300"           height="180" align="left"> </a>    
-      </main>
        <aside>
           <h2  align="center">Sistema de Notificaciones</h2>
           <p align="center" > Sistema para dar de alta casos jurídicos y notificar de la alta a diferentes dependencias de seguridad pública del Estado de Baja California. </p>
           <p align="center" > El sistema esta realizado con Node, Express, Oracle, Sequelize, React, Tailwind  y se conecta a API's de diferentes dependencias de seguridad pública.  </p>
           <p align="center" > Para el despliegue en un servidor virtual se utilizó PM2 y NginX  </p>
        </aside>
+      <main  >
+        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/loginSicuap.png"  width= "300"           height="180" align="left"> </a>
+        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/ALTA%20CASO.jpg"  width= "300"           height="180" align="left"> </a>
+        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/DASHBOARD%20VOLDEMORT.jpg"  width= "300"           height="180" align="left"> </a>
+        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/MANTENIMIENTO%20DE%20CATALOGOS%20DE%20USUARIOS%20Y%20DELITOS.jpg"  width= "300"           height="180" align="left"> </a>
+        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/SEGUIMIENTO_CASO.jpg"  width= "300"           height="180" align="left"> </a>    
+      </main>
   </div>
   <hr>
    <div> 
