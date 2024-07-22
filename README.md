@@ -16,9 +16,9 @@
 - ⚡ Previous Background **Chemical Engineer**
 
 ### My Projects 🛠️
-   <div>
-       <aside>
-          <h2  align="center">Sistema de Notificaciones</h2>
+   <div >
+       <aside align='center'>
+          <h2  align="center"> Sistema de Notificaciones </h2>
           <p align="center" > Sistema para dar de alta casos jurídicos y notificar de la alta a diferentes dependencias de seguridad pública del Estado de Baja California. </p>
           <p align="center" > El sistema esta realizado con Node, Express, Oracle, Sequelize, React, Tailwind  y se conecta a API's de diferentes dependencias de seguridad pública.  </p>
           <p align="center" > Para el despliegue en un servidor virtual se utilizó PM2 y NginX  </p>
