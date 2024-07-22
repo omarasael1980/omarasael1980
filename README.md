@@ -18,7 +18,12 @@
 ### My Projects 🛠️
    <div>
    <main align="left">
-     <a href="https://github.com/omarasael1980/sic2" target="_blank"> <img alt="sheetsdatabase" src="./projects/sic.png"  width= "300"           height="180" align="left"> </a>
+     <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/loginSicuap.png"  width= "300"           height="180" align="left"> </a>
+      <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/ALTA%20CASO.jpg"  width= "300"           height="180" align="left"> </a>
+        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/DASHBOARD%20VOLDEMORT.jpg"  width= "300"           height="180" align="left"> </a>
+          <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/MANTENIMIENTO%20DE%20CATALOGOS%20DE%20USUARIOS%20Y%20DELITOS.jpg"  width= "300"           height="180" align="left"> </a>
+            <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/SEGUIMIENTO_CASO.jpg"  width= "300"           height="180" align="left"> </a>
+    
     
   </main>
   
@@ -33,12 +38,8 @@
   <hr>
    <div> 
    <main align="left"> 
-     <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/loginSicuap.png"  width= "300"           height="180" align="left"> </a>
-      <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/ALTA%20CASO.jpg"  width= "300"           height="180" align="left"> </a>
-        <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/DASHBOARD%20VOLDEMORT.jpg"  width= "300"           height="180" align="left"> </a>
-          <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/MANTENIMIENTO%20DE%20CATALOGOS%20DE%20USUARIOS%20Y%20DELITOS.jpg"  width= "300"           height="180" align="left"> </a>
-            <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/SEGUIMIENTO_CASO.jpg"  width= "300"           height="180" align="left"> </a>
-    
+        <a href="https://github.com/omarasael1980/sic2" target="_blank"> <img alt="sheetsdatabase" src="./projects/sic.png"  width= "300"           height="180" align="left"> </a>
+  
   </main>
   
   <aside>
