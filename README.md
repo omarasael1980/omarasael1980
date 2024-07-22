@@ -35,15 +35,13 @@
   </div>
   <hr>
    <div> 
-   <main align="left"> 
-        <a href="https://github.com/omarasael1980/sic2" target="_blank"> <img alt="sheetsdatabase" src="./projects/sic.png"  width= "300"           height="180" align="left"> </a>
-  
-  </main>
-  
-  <aside>
-    <h2  align="center">Sistema Integral Colegio Santee</h2>
-    <p align="center" > TThe developed system, utilizing PHP, MySQL, JavaScript, HTML, Bootstrap, CSS, and ChartJS, optimizes the control and management of services in the nursing and educational psychology departments. It generates printable reports, tracks school insurance expenses, and has significantly improved customer service, automating key processes and reducing response times since its implementation a few months ago.</p>
-  </aside>
+       <main align="left"> 
+          <a href="https://github.com/omarasael1980/sic2" target="_blank"> <img alt="sheetsdatabase" src="./projects/sic.png"  width= "300"           height="180" align="left"> </a>
+       </main>
+       <aside>
+          <h2  align="center">Sistema Integral Colegio Santee</h2>
+          <p align="center" > TThe developed system, utilizing PHP, MySQL, JavaScript, HTML, Bootstrap, CSS, and ChartJS, optimizes the control and management of services in the nursing and educational psychology departments. It generates printable reports, tracks school insurance expenses, and has significantly improved customer service, automating key processes and reducing response times since its implementation a few months ago.</p>
+        </aside>
   </div>
   <hr>
   <div>
