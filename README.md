@@ -33,7 +33,7 @@
         <a href="https://github.com/omarasael1980/" target="_blank"> <img alt="sheetsdatabase" src="./projects/SEGUIMIENTO_CASO.jpg"  width= "300"           height="180" align="left"> </a>    
       </main>
   </div>
-  <hr margin-top="14px">
+  <hr width="100%">
    <div> 
        <main align="left"> 
           <a href="https://github.com/omarasael1980/sic2" target="_blank"> <img alt="sheetsdatabase" src="./projects/sic.png"  width= "300"           height="180" align="left"> </a>
